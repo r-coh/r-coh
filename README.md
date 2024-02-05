@@ -9,6 +9,7 @@ I'm an experienced software engineer, here's what am upto..
 
 - 🌱 I’m currently learning the ways of UI/UX with various tools including javascript.
 - 💬 Ask me about Elixir and its eco-system.
+- 🥷 'High Availablity' agent, with simple tools like Linux, Nginx, Haproxy, Github Actions etc
 
 ---
 
